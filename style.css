@@ -1,0 +1,55 @@
+body{
+    background-color:indigo;
+}
+h2{
+    font-family: cursive;
+    color: violet;
+    display: flex;
+    text-transform: none;
+    text-align: justify;
+}
+h4{
+    font-family: cursive;
+    color: rgb(236, 192, 236); 
+}
+.input-box{
+    border-radius: 30px;
+    color: seashell;
+}
+i{
+    color: rgb(201, 197, 197);
+}
+button{
+    color: sandybrown;
+    font: status-bar;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 15px;
+}
+select{
+    border-color: sienna;
+    border-radius: 20px;
+    font-family: serif;
+    color: whitesmoke;
+    background-color:tomato;
+}
+input{
+    border-radius: 15px;
+    border-color: violet;
+    border-collapse: separate;
+    font-family: serif;
+    background-color: tomato;
+    font: whitesmoke;
+}
+span i{
+    color: wheat;
+    font-variant: auto;
+    font-display: flex;
+}
+label{
+    color: violet;
+}
+button:hover{
+    color: lightblue;
+    background-color: lightcoral;
+    padding: 0.5rem;
+}
